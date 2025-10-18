@@ -1,7 +1,7 @@
 ## <h1 align="center">👋 Hi, I'm Hammoud Taha </h1>
-<h3 align="center">💻 Flutter & Laravel Developer | 🎓 Software Engineering Student</h3>
+<h3 align="center">💻 Flutter Developer | Laravel Developer | 🎓 Software Engineering Student</h3>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+[Your+Name];Flutter+%26+Laravel+Developer;Software+Engineering+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+[Hammoud Taha];Flutter+Developer;Laravel +Developer ;Software+Engineering+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HammoudTaha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
