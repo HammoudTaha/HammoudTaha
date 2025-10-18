@@ -44,7 +44,11 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammoudTaha&layout=compact&theme=tokyonight" />
 </p>
 
- 
+ ###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 ## 🌐 Connect With Me
 
