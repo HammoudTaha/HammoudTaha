@@ -7,6 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=HammoudTaha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p> 
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 🧭 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=brightgreen" alt="visitor badge"/>
+</p>
+
+
 ### 🧩 Mobile Development
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
