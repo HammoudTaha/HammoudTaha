@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋  <h1 align="center">👋 Hi, I'm [Your Name]</h1>
 🎓 I'm a **4th-year Software Engineering student** passionate about building modern and efficient applications.  
 💻 I specialize in **Flutter** for mobile app development and **Laravel** for backend web development.  
 🚀 My goal is to craft high-quality digital solutions that provide great user experiences and solve real-world problems.
