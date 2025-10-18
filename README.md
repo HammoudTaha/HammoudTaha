@@ -1,9 +1,9 @@
 ## <h1 align="center">👋 Hi, I'm Hammoud Taha </h1>
 <h3 align="center">💻 Flutter & Laravel Developer | 🎓 Software Engineering Student</h3>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HammoudTaha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p> -->
+</p> 
 
 ### 🧩 Mobile Development
 <p>
@@ -30,32 +30,15 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-🎓 I'm a **4th-year Software Engineering student** passionate about building modern and efficient applications.  
-💻 I specialize in **Flutter** for mobile app development and **Laravel** for backend web development.  
-🚀 My goal is to craft high-quality digital solutions that provide great user experiences and solve real-world problems.
 
-## 🧠 Skills & Technologies
+## 📊 GitHub Analytics
 
-### 📱 Mobile App Development
-- Flutter  
-- Dart  
-- Firebase  
-- RESTful APIs
-- Local DBs
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" />
+</p>
 
-  
-### 💻 Web & Backend Development
-- Laravel / PHP
-- React / JavaScript
-- MySQL / PostgreSQL  
-- HTML / CSS / JavaScript  
-- API Integration
 
-### ⚙️ Tools & Additional Skills
-- Git & GitHub  
-- UI/UX Design Basics with figma 
-- Clean Architecture  
-- Agile / Scrum Methodology
 
 ## 🌐 Connect With Me
 
