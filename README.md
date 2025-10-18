@@ -2,7 +2,7 @@
 <h3 align="center">💻 Flutter & Laravel Developer | 🎓 Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HammoudTaha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 🎓 I'm a **4th-year Software Engineering student** passionate about building modern and efficient applications.  
